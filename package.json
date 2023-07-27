@@ -1,0 +1,13 @@
+{
+	"name": "web-docs-data",
+	"version": "0.0.1",
+	"type": "module",
+	"main": "create-data-package.js",
+	"devDependencies": {
+		"fdir": "^6.0.1",
+		"gray-matter": "4.0.3",
+		"jsdom": "^22.1.0",
+		"mdn-kumascript": "^0.0.3",
+		"mdn-markdown": "^0.0.4"
+	}
+}
